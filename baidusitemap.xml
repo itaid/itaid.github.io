@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/10/15/20170616interactionstudy/</loc>
+    <lastmod>2018-09-12T15:12:30.258Z</lastmod>
+    <data>
+        <display>
+        <title>20170616交互程序学习笔记</title>
+        <pubTime>2017-10-15T13:50:53.000Z</pubTime>
+        
+        <tag>python3</tag>
+         
+         
+           
+             
+              <breadCrumb title="python" url="http://yoursite.com/categories/python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/10/15/variablestudy/</loc>
+    <lastmod>2018-09-12T15:11:26.368Z</lastmod>
+    <data>
+        <display>
+        <title>变量学习</title>
+        <pubTime>2017-10-15T13:53:24.000Z</pubTime>
+        
+        <tag>python 变量</tag>
+         
+         
+           
+             
+              <breadCrumb title="python" url="http://yoursite.com/categories/python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+  <url>
+    <loc>http://yoursite.com/2017/10/15/myAthena-md/</loc>
+    <lastmod>2018-09-12T14:40:34.672Z</lastmod>
+    <data>
+        <display>
+        <title>时移 ——让女神永不下线</title>
+        <pubTime>2017-10-15T13:52:08.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/09/10/hello-world/</loc>
+    <lastmod>2018-09-10T03:27:13.713Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-09-10T03:27:13.712Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>

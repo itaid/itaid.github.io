@@ -1,0 +1,16 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /about/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /lib/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://itaid.github.io/sitemap.xml
+Sitemap: https://itaid.github.io/baidusitemap.xml
